@@ -1,0 +1,28 @@
+{
+  "name": "pgats-02-automacao-web-trabfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criscandeloro/pgats-02-automacao-web-trabfinal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/criscandeloro/pgats-02-automacao-web-trabfinal/issues"
+  },
+  "homepage": "https://github.com/criscandeloro/pgats-02-automacao-web-trabfinal#readme",
+  "dependencies": {
+    "chance": "^1.1.13"
+  },
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}
