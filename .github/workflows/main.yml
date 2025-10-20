@@ -1,4 +1,4 @@
-name: Trabalho Final - e2e WEB
+name: Trabalho Final - E2E WEB
 on: workflow_dispatch
 
 jobs:
