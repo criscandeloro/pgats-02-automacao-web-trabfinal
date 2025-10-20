@@ -1,4 +1,4 @@
-name: WEB E2E Test
+name: Trabalho Final - e2e WEB
 on: workflow_dispatch
 
 jobs:
